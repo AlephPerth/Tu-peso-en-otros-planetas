@@ -1,0 +1,42 @@
+* {
+    background-color: black;
+    color: aliceblue;
+    max-width: 100%;
+}
+
+h2 {
+    margin-top: 80px;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+    padding-top: 12px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#your_weight input {
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 40px;
+}
+
+#img_planet {
+    width: 300px;
+}
+
+#img_planet_xl {
+    width: 600px;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(4, 330px);
+    grid-row-gap: 2rem;
+    margin: 15px 0 15px 0;
+    padding: 15px 0 15px 0;
+    place-content: center;
+}
+
