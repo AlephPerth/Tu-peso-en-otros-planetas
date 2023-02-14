@@ -36,14 +36,14 @@ class Planets {
     }
 }
 
-const planetMercury = new Planets ('Mercurio', './img/Mercurio.jpg', '58,7 días', '57.894.376 KM',3.7)
-const planetVenus = new Planets ('Venus', './img/Venus.jpg', '243,0187 días', '6051.8 KM', 8.87)
-const planetMart = new Planets ('Marte', './img/Marte.jpg', '24h 39min 35s', '3389.5 KM', 3.7)
-const planetJupiter = new Planets ('Jupiter', './img/Jupiter.jpg', '9h 55m 30s', '71492.0 KM', 24.8)
-const planetSaturn = new Planets ('Saturno', './img/Saturno.png', '10h 33m 38s', '58232.0 KM', 10.44)
-const planetUranus = new Planets ('Urano', './img/Urano.jpg', '-17h 14m', '51.118 KM', '8.87')
-const planetNeptune = new Planets ('Neptuno', './img/Neptuno.jpg', '16h 6m 14s', '24622 KM', 11.15)
-const planetPluto = new Planets ('Pluton', './img/Pluton.jpg', '153 hs','1185 KM','0.62', 7)
+const planetMercury = new Planets ('Mercurio', './img/mercurio.jpg', '58,7 días', '57.894.376 KM',3.7)
+const planetVenus = new Planets ('Venus', './img/venus.jpg', '243,0187 días', '6051.8 KM', 8.87)
+const planetMart = new Planets ('Marte', './img/marte.jpg', '24h 39min 35s', '3389.5 KM', 3.7)
+const planetJupiter = new Planets ('Jupiter', './img/jupiter.jpg', '9h 55m 30s', '71492.0 KM', 24.8)
+const planetSaturn = new Planets ('Saturno', './img/saturno.jpg', '10h 33m 38s', '58232.0 KM', 10.44)
+const planetUranus = new Planets ('Urano', './img/urano.jpg', '-17h 14m', '51.118 KM', '8.87')
+const planetNeptune = new Planets ('Neptuno', './img/neptuno.jpg', '16h 6m 14s', '24622 KM', 11.15)
+const planetPluto = new Planets ('Pluton', './img/pluton.png', '153 hs','1185 KM','0.62', 7)
 
 arr_planets.push(planetMercury, planetVenus, planetMart, planetJupiter, planetSaturn, planetUranus, planetNeptune, planetPluto)
 
