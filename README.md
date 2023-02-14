@@ -23,7 +23,7 @@ Project developed in Platzi's basic programming course
 
 # Technologies used
 
--HTML5
--CSS3
-- Start
--JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
