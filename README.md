@@ -13,6 +13,8 @@ Paoryecto desarrollado en el curso de programacion basica de Platzi
 - Bootstrap
 - JavaScript
 
+
+
 =====ENGLISH VERSION=====
 
 # Your weight on other planets
